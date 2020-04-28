@@ -12,9 +12,9 @@
     </parent>
 
     <groupId>io.catalyte.training</groupId>
-    <artifactId>garden_center_api_postgres</artifactId>
+    <artifactId>ec2_list_server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <description>An API for the Garden Center API project</description>
+    <description>An API for AWS training</description>
 
     <properties>
         <java.version>1.8</java.version>
