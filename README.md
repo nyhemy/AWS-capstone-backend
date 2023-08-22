@@ -1,5 +1,5 @@
 # EC2 List Server
-Simple web server that returns a list of EC@ instances. This project is used as part of the Beginning Cloud (AWS) Module.
+Simple web server that returns a list of EC2 instances. This project is used as part of the Beginning Cloud (AWS) Module.
 ### Getting Started
 
 The server expects to connect to a Postgres Database
